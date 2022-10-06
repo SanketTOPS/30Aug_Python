@@ -1,9 +1,0 @@
-ID:101
-Name:Nirav
-ID:102
-Name:Ashok
-
-Hello Python!
-Hello Python!
-Hello Python!
-Hello Python!
